@@ -1,0 +1,52 @@
+{
+  "item.mccourse.dynamite": "Dynamite",
+
+  "item.mccourse.chocolate_milk": "Chocolate Milk",
+  "item.mccourse.golden_sweet_berries": "Golden Sweet Berries",
+  "item.mccourse.chocolate_pie": "Chocolate Pie",
+  "item.mccourse.berry_pie": "Berry Pie",
+  "item.mccourse.corn": "Corn",
+  "item.mccourse.corn_seeds": "Corn Seeds",
+  "item.mccourse.banana": "Banana",
+  "item.mccourse.blue_berries": "Blue Berries",
+  "item.mccourse.frog_legs": "Frog Legs",
+  "item.mccourse.cooked_frog_legs": "Cooked Frog Legs",
+
+  "item.mccourse.steel_ingot": "Steel Ingot",
+  "item.mccourse.raw_silver": "Raw Silver",
+  "item.mccourse.silver_ingot": "Silver Ingot",
+  "item.mccourse.silver_nugget": "Silver Nugget",
+  "item.mccourse.trident_shard": "Trident Shard",
+
+  "item.mccourse.steel_sword": "Steel Sword",
+  "item.mccourse.steel_pickaxe": "Steel Pickaxe",
+  "item.mccourse.steel_axe": "Steel Axe",
+  "item.mccourse.steel_shovel": "Steel Shovel",
+  "item.mccourse.steel_hoe": "Steel Hoe",
+
+  "item.mccourse.copper_sword": "Copper Sword",
+  "item.mccourse.copper_pickaxe": "Copper Pickaxe",
+  "item.mccourse.copper_axe": "Copper Axe",
+  "item.mccourse.copper_shovel": "Copper Shovel",
+  "item.mccourse.copper_hoe": "Copper Hoe",
+
+  "item.mccourse.steel_plate": "Steel Plate",
+  "item.mccourse.wither_bone": "Wither Bone",
+  "item.mccourse.wither_bone_meal": "Wither Bone Meal",
+
+  "block.mccourse.foundation_block": "Foundation Block",
+  "block.mccourse.silver_ore": "Silver Ore",
+  "block.mccourse.silver_block": "Silver Block",
+  "block.mccourse.steel_block": "Steel Block",
+  "block.mccourse.steel_door": "Steel Door",
+  "block.mccourse.steel_trapdoor": "Steel Trapdoor",
+  "block.mccourse.block_of_raw_silver": "Block of Raw Silver",
+  "block.mccourse.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.mccourse.steel_ladder": "Steel Ladder",
+
+  "entity.minecraft.villager.beekeeper": "Beekeeper",
+
+
+
+  "itemgroup.rohns_improved_group": "Rohns Mod"
+}

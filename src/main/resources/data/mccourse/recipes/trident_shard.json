@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "mccourse:trident_shard"
+    },
+    "X": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+  ],
+  "result": {
+    "item": "minecraft:trident"
+  },
+  "show_notification": true
+}

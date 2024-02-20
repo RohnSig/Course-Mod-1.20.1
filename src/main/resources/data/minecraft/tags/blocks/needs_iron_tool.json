@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:silver_ore",
+    "mccourse:deepslate_silver_ore",
+    "mccourse:silver_block",
+    "mccourse:block_of_raw_silver"
+  ]
+}

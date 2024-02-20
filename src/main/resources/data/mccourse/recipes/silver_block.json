@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+    ],
+   "key": {
+     "#": {
+       "item": "mccourse:silver_ingot"
+     }
+   },
+  "result": {
+    "item": "mccourse:silver_block"
+  }
+   }

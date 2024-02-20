@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mccourse:block/steel_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mccourse:block/steel_ladder"
+    },
+    "facing=south": {
+      "model": "mccourse:block/steel_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mccourse:block/steel_ladder",
+      "y": 270
+    }
+  }
+}

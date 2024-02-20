@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:raw_silver"
+    }
+  },
+  "result": {
+    "item": "mccourse:block_of_raw_silver"
+  }
+}
